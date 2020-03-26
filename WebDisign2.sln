@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDisign2", "WebDisign2\WebDisign2.csproj", "{45261E4E-CD1D-4931-A1A3-7B8B2A695E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45261E4E-CD1D-4931-A1A3-7B8B2A695E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45261E4E-CD1D-4931-A1A3-7B8B2A695E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45261E4E-CD1D-4931-A1A3-7B8B2A695E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45261E4E-CD1D-4931-A1A3-7B8B2A695E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F6ACB25-1A92-4DE4-914F-8663BE0330B3}
+	EndGlobalSection
+EndGlobal
